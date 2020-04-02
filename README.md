@@ -1,4 +1,4 @@
 # front_end_template
 # with
-# Webpack, Bootstrap, SCCS
+# Webpack, Bootstrap, SCSS
 # in future add ESLint
