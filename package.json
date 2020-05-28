@@ -43,10 +43,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/malan1990/frontend_template.git"
+    "url": "git+https://github.com/m-malanowski/portfolio2020"
   },
   "bugs": {
-    "url": "https://github.com/malan1990/frontend_template/issues"
+    "url": "https://github.com/m-malanowski/portfolio2020/issues"
   },
-  "homepage": "https://github.com/malan1990/frontend_template#readme"
+  "homepage": "https://github.com/m-malanowski/portfolio2020#readme"
 }
